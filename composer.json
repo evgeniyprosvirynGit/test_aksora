@@ -1,0 +1,17 @@
+{
+    "name": "pc2/testaksora.loc",
+    "authors": [
+        {
+            "name": "PC2",
+            "email": "evgeniy.prosviryn.box@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "journal\\": ""
+        }
+    }
+}
